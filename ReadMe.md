@@ -1,4 +1,5 @@
 # 💫 About Me:
+Real Name: Diego Antonio Galdos Cruz
 Systems Engineering Student @ UTC | Guitarist | CS2 Enthusiast | Learning Java & JS
 
 
