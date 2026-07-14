@@ -20,9 +20,8 @@ Soy estudiante de **Ingeniería en Sistemas** en la Universidad Tres Culturas. M
 ---
 
 ## 🚀 Proyectos Destacados
-*Aquí puedes añadir los enlaces directos a tus repositorios más importantes:*
-- [**Minecraft Launcher**](#) - Un launcher profesional desarrollado con Tauri, Svelte y Rust.
-- [**IP Scanner**](#) - Utilidad de red desarrollada en Python para análisis de infraestructura.
+- [**Minecraft Launcher**](#) - Un launcher profesional desarrollado con Tauri, Svelte y Rust. (Proximamente)
+- [**IP Scanner**](#) - Utilidad de red desarrollada en Python para análisis de infraestructura. (Necesita Actualización)
 
 ---
 
